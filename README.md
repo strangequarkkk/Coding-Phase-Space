@@ -1,13 +1,9 @@
-# Exploring 'Quantum Peculiarities' using single photons
+# Elegance of Phase Space
 
-Please find attached the 'Report' file containing the work.
+Please find attached the 'Report' file containing the work. The Python code used to plot phase diagram of the harmonic oscillator can be found in the appendix.
 
-In this Project:
-
-1) Proved the utility of spontaneous parametric down-conversion(SPDC) as a source of single photons.
-
-2) Did nonlocality tests, probing the seemingly bizzare phenomenon of quantum entanglement.
-
-3) Performed quantum state tomography for various two-qubit states by virtue of the density matrix formalism. 
+Abstract: I was extremely intrigued by phase space trajectories when I encountered them. Having seen a few phase space diagrams in the lecture notes, I decided to code and plot phase space trajectories of some simple systems myself. In this 
+very brief self-study, I recap the basics of Hamiltonian dynamics and then plot phase space portraits of simple, 1 degree of freedom, autonomous systems using the lecture notes as my primary resource. I discuss how phase diagrams can be such a 
+powerful tool to study the dynamics of a system. 
 
 If you need more information related to the work, don't hesitate to contact me.
